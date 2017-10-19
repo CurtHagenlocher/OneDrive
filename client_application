@@ -1,0 +1,5 @@
+[
+    ClientId = "xxxx",
+    ClientSecret = "xxxx",
+    CallbackUrl = "https://login.live.com/oauth20_desktop.srf" /* TODO: Use PBI? */
+]
